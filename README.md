@@ -1,7 +1,1 @@
-# git-practice
-
-# You made it! :D
-
-## Person 1 made a change to this file.
-
-## Lab AB change
+hello i am person 1
